@@ -5,8 +5,8 @@ import (
 	"encoding/binary"
 	"os"
 
-	"github.com/akavel/rsrc/coff"
-	"github.com/akavel/rsrc/ico"
+	"github.com/tc-hib/rsrc/coff"
+	"github.com/tc-hib/rsrc/ico"
 )
 
 // *****************************************************************************

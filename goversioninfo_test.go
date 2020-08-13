@@ -9,7 +9,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/akavel/rsrc/coff"
+	"github.com/tc-hib/rsrc/coff"
 )
 
 // *****************************************************************************
